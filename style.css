@@ -1,0 +1,191 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.part1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around ;
+    align-items: center;
+    padding: 20px;
+    background-color: blue;
+}
+.h1{
+    color: white;
+    padding: 10px 10px;
+}
+.btn1:hover{
+    border-radius: 12px;
+    color: blue;
+    background-color: magenta;
+}
+.btn2:hover{
+    border-radius: 12px;
+    color: blue;
+    background-color: magenta;
+}
+.btn3:hover{
+    border-radius: 12px;
+    color: blue;
+    background-color: magenta;
+}
+.btn4:hover{
+    border-radius: 12px;
+    color: blue;
+    background-color: magenta;
+}
+.btn1{
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+.btn2{
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+.btn3{
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+.btn4{
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    margin-left: 10px;
+    padding: 5px 10px;
+}
+.icon{
+    width: 30px;
+    background-color: white;
+    align-items: center;
+    border-radius: 50%;
+    padding: 10px;
+    text-align: center;
+}
+.icon:hover{
+    background-color: black;
+    color: blue;
+}
+.pic1{
+    width: 50%;
+}
+.h2{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+.box{
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: azure;
+    padding: 30px;
+}
+.part2{
+    display: flex;
+    flex-wrap: wrap;
+}
+.man{
+    width: 50%;
+}
+.pic2{
+    width: 50%;
+    margin-bottom: 10px;
+}
+.vada{
+    width: 49%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top:30px ;
+    border-bottom: 2px solid grey;
+}
+.box1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between ;
+}
+.box2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between ;
+}
+.h3:hover{
+    color: blue;
+}
+.h3{
+    padding: 0px 15px;
+}
+.pic6{
+    width: 100%;
+}
+.p5{
+    padding: 20px;
+    font-weight: bold;
+}
+.box11{
+    width: 30%;
+    background-color: white;
+}
+.p5{
+    margin-top: 20px;
+}
+.p5:hover{
+    color: blue;
+}
+.box10{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: aliceblue;
+    margin-top: 30px;
+}
+.part5{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: rgba(0, 0, 139, 0.829);
+}
+.moon{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    color: white;
+    align-items: center;
+}
+.sun{
+    align-items: center;
+}
+.ml{
+    padding: 0px 20px;
+}
+.teks{
+    color: white;
+    width: 70%;
+}
+.part6{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: blue;
+    padding: 30px;
+}
+.asad{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: white;
+}
+.iiccoonn{
+    align-items: center;
+    margin-top: 40px;
+    width: 50px;
+    padding: 0px 10px;
+}
